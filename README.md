@@ -15,8 +15,8 @@ Software quality assurance and testing professional with 4+ years of experience 
 
 ## PROFESSIONAL EXPERIENCE  
 ### Software Quality Assurance and Test Engineer                                                                Jul 2009 – Feb 2012  
-_Vietnam’s Ministry of Natural Resources and Environment, Dept. of Info. Tech., Hanoi, Vietnam_  
-* Responsible for developing and implementing software programs to support access to the land information systems for the people of Vietnam  
+### Vietnam’s Ministry of Natural Resources and Environment, Dept. of Info. Tech., Hanoi, Vietnam  
+_Responsible for developing and implementing software programs to support access to the land information systems for the people of Vietnam_  
 * Tested Environment Land Information System (ELIS) software and websites for government departments of 5 provinces to ensure their products met industry standards and improved product functionality, usability, and user experience  
 * Designed comprehensive test plans and test cases; executed cross-browser and cross-platform test of corporate and client’s websites; reported, tracked bugs/issues, and documented using the JIRA bug tracking system  
 * Wrote software user manuals and managed software configurations and documents  
