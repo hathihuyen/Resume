@@ -1,17 +1,23 @@
 # Resume
 
-Huyen Ha     
+*Huyen Ha*                         *612-205-8365*                               *hathihuyen@gmail.com*                                 
 
-## PROFESSIONAL SUMMARY 
-
-Software quality assurance and testing professional with 4+ years of experience in building software products, performing software testing, and quality assurance seeking a position as a QA software Tester 
 
 ## Key Skills  
 * Experienced in Java and Manual Testing for Software Quality Assurance  
 * Proficient in Java, Junit, TestNG, Selenium, JMeter  
 * Familiar with C/C++, Linux, JavaScript, HTML, SQL  
 * Fluent in English and Vietnamese 
- 
+
+
+## EDUCATION  
+### MS, Information Technology                                                                                                 2012  
+#### Information Technology Institute, Vietnam National University - VNU, Hanoi, Vietnam  
+_Vietnam’s top comprehensive multi-disciplinary academic and research center_  
+### BS, Information Technology                                                                                                 2008  
+#### University of Engineering and Technology, Vietnam National University - VNU, Hanoi, Vietnam  
+_Vietnam’s top comprehensive multi-disciplinary academic and research center_  
+
 
 ## PROFESSIONAL EXPERIENCE  
 ### Software Quality Assurance and Test Engineer                                                                Jul 2009 – Feb 2012  
@@ -36,10 +42,4 @@ _A research center specializing in research development for companies in Japan_
 * Used model checking verifiers in order to verify the abstracted models, make sure that the original C programs conform with their specifications, and guarantee reliability 
 
 
-## EDUCATION  
-### MS, Information Technology                                                                                                 2012  
-#### Information Technology Institute, Vietnam National University - VNU, Hanoi, Vietnam  
-_Vietnam’s top comprehensive multi-disciplinary academic and research center_  
-### BS, Information Technology                                                                                                 2008  
-#### University of Engineering and Technology, Vietnam National University - VNU, Hanoi, Vietnam  
-_Vietnam’s top comprehensive multi-disciplinary academic and research center_  
+
