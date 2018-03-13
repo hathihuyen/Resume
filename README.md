@@ -4,11 +4,11 @@
 
 
 ## EDUCATION  
-### MS, Management Information Systems,                                                                                        2012  
-#### Information Technology Institute, Vietnam National University - VNU, Hanoi, Vietnam  
+### MS in Management Information Systems,                                                                                        2012  
+Information Technology Institute, Vietnam National University - VNU, Hanoi, Vietnam  
   
-### BS, Information Technology,                                                                                                2008  
-#### University of Engineering and Technology, Vietnam National University - VNU, Hanoi, Vietnam  
+### BS in Information Technology,                                                                                                2008  
+University of Engineering and Technology, Vietnam National University - VNU, Hanoi, Vietnam  
 
 
 ## PROFESSIONAL EXPERIENCE  
