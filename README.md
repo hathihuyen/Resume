@@ -3,20 +3,12 @@
 ## Huyen Ha ---------------- 612-205-8365 --------------- hathihuyen@gmail.com                                 
 
 
-## Key Skills  
-* Experienced in Java and Manual Testing for Software Quality Assurance  
-* Proficient in Java, Junit, TestNG, Selenium, JMeter  
-* Familiar with C/C++, Linux, JavaScript, HTML, SQL  
-* Fluent in English and Vietnamese 
-
-
 ## EDUCATION  
 ### MS, Information Technology,                                                                                                2012  
 #### Information Technology Institute, Vietnam National University - VNU, Hanoi, Vietnam  
-_Vietnam’s top comprehensive multi-disciplinary academic and research center_  
+  
 ### BS, Information Technology,                                                                                                2008  
 #### University of Engineering and Technology, Vietnam National University - VNU, Hanoi, Vietnam  
-_Vietnam’s top comprehensive multi-disciplinary academic and research center_  
 
 
 ## PROFESSIONAL EXPERIENCE  
